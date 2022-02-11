@@ -1,5 +1,6 @@
 body {
-    background: #000;
+    background: radial-gradient(#4c4b4a, #000000);
+    overflow: hidden;
 }
 * {
     margin: 0;
